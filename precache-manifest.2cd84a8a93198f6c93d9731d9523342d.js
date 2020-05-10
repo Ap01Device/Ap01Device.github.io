@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "088b2ddf65a24a12dfad",
-    "url": "/css/app.0c2d085d.css"
+    "revision": "9695c7b84b1dff85f26f",
+    "url": "/css/app.3a49bfac.css"
   },
   {
-    "revision": "088b2ddf65a24a12dfad",
-    "url": "/js/app.c5464c5d.js"
+    "revision": "9695c7b84b1dff85f26f",
+    "url": "/js/app.e140fc27.js"
   },
   {
     "revision": "42274fd43510c6a22c24",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.7f7a1c96.js"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/fonts/nucleo-icons.42643978.woff2"
-  },
-  {
     "revision": "c1733565b32b585676302d4233c39da8",
     "url": "/fonts/nucleo-icons.c1733565.eot"
+  },
+  {
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
@@ -56,15 +56,15 @@ self.__precacheManifest = [
     "url": "/fonts/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/img/fontawesome-webfont.912ec66d.svg"
-  },
-  {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/fonts/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "aeb344b8107ca0c3475b6a94824d70fd",
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/img/fontawesome-webfont.912ec66d.svg"
+  },
+  {
+    "revision": "c131a6c0be75b087a747fec856f7cb23",
     "url": "/index.html"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "185288d13ed8e9d745bd279ea34667bf",
-    "url": "/img/brand/blue.png"
-  },
-  {
     "revision": "f8d66635d36a5b2ef698e30fb5f18aca",
     "url": "/img/brand/auriocn.png"
+  },
+  {
+    "revision": "185288d13ed8e9d745bd279ea34667bf",
+    "url": "/img/brand/blue.png"
   },
   {
     "revision": "c85c75275c0a0a617f9e5accc2700908",
@@ -96,20 +96,20 @@ self.__precacheManifest = [
     "url": "/img/brand/pw.shanghai.jpg"
   },
   {
-    "revision": "6fafe4baca9d50d61a898c84ade7afa3",
-    "url": "/img/brand/white.png"
-  },
-  {
     "revision": "fbb34fe57ef28ff58773d7c22471b7f7",
     "url": "/img/brand/pweb.png"
   },
   {
-    "revision": "f8d66635d36a5b2ef698e30fb5f18aca",
-    "url": "/img/theme/auriocn.png"
+    "revision": "6fafe4baca9d50d61a898c84ade7afa3",
+    "url": "/img/brand/white.png"
   },
   {
     "revision": "594b1ee1d95ada356eaad078e9217932",
     "url": "/img/ill/ill-2.svg"
+  },
+  {
+    "revision": "f8d66635d36a5b2ef698e30fb5f18aca",
+    "url": "/img/theme/auriocn.png"
   },
   {
     "revision": "aca5b095b7d9fd92961afbee95949ab6",
@@ -120,20 +120,20 @@ self.__precacheManifest = [
     "url": "/img/theme/img-1-1200x1000.jpg"
   },
   {
-    "revision": "f749ac315d709722968dfff229b7ebc9",
-    "url": "/img/theme/Pinto.jpg"
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/img/theme/img-2-1200x1000.jpg"
   },
   {
     "revision": "dc49ad52655e1d9d0552c026db3ef688",
     "url": "/img/theme/landing.jpg"
   },
   {
-    "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
-    "url": "/img/theme/profile.jpg"
+    "revision": "f749ac315d709722968dfff229b7ebc9",
+    "url": "/img/theme/Pinto.jpg"
   },
   {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/img/theme/img-2-1200x1000.jpg"
+    "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
+    "url": "/img/theme/profile.jpg"
   },
   {
     "revision": "974088a1931e40895bac6db119c62448",
@@ -148,12 +148,12 @@ self.__precacheManifest = [
     "url": "/img/theme/team-3-800x800.jpg"
   },
   {
-    "revision": "be997d5226b992ffad34816870c6b7aa",
-    "url": "/img/theme/team-2-800x800.jpg"
-  },
-  {
     "revision": "66618a418175ddf2ac8c47a241d327a8",
     "url": "/img/theme/team-4-800x800.jpg"
+  },
+  {
+    "revision": "be997d5226b992ffad34816870c6b7aa",
+    "url": "/img/theme/team-2-800x800.jpg"
   },
   {
     "revision": "9e8fbed0cfddbe2c1e6c054bd6ad8fd1",
